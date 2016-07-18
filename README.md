@@ -6,6 +6,11 @@ Make Your Photos Look Awesome
 -----------------------------
 ![Cover](Assets/590.png)
 
+
+### Live Demo
+
+[View Demo](http://effect.gq/)
+
 ### Requirements and Features
 
 * * * * *
