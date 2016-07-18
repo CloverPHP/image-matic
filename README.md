@@ -4,7 +4,7 @@ Image-Matic
 
 Make Your Photos Look Awesome
 -----------------------------
-
+![Cover](Assets/590.png)
 
 ### Requirements and Features
 
