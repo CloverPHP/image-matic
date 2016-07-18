@@ -5,12 +5,6 @@ Image-Matic
 Make Your Photos Look Awesome
 -----------------------------
 
-* * * * *
-
--   created: 07/31/2014
--   by: Nick G.
--   []()
--   email: [gejadze@gmail.com](mailto:gejadze@gmail.com)
 
 ### Requirements and Features
 
@@ -19,19 +13,16 @@ Make Your Photos Look Awesome
 Requirements
 ============
 
- 
 
 -   Apache or Nginx Webserver
 -   PHP 5.3.8+
 -   PHP GD Libraries
 -   At least 128MB Memory on the Server
 
- 
 
 Features
 ========
 
- 
 
 -   Bootstrap 3
 -   Mobile first, Responsive Design
@@ -67,7 +58,6 @@ you can change Meta keyword and Meta Description same way:
 "Meta-Keywords" => "Photo Editing, Photo filters, Photo Effects, Awesome Photos",
 ```
 
- 
 
 you will see also two other patameters:
 
